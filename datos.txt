@@ -1,0 +1,7 @@
+Nombres: MONSE
+Apellidos: GARCIA
+Edad: 12 an?os
+Estatura: 1.5 cm
+Tele?fono: 961
+Ge?nero: Hombre
+
